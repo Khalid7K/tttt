@@ -1,0 +1,3 @@
+include ':tca'
+include ':app'
+rootProject.name = "Exam"
